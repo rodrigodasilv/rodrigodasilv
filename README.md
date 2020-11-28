@@ -1,7 +1,5 @@
 ### Hi there, I'm Rodrigo 👋
 
-Technologist in System Analysis.
-
-🇧🇷 From Brazil.
+🇧🇷 I'm from Brazil.
 
 > Our minds are always racing.
