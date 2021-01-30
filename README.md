@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://i.ibb.co/S0NrjyW/clouds.png" alt="clouds" width=100%>
+<img src="https://i.ibb.co/Xbm2Qz2/clouds-copy.png" alt="Press start" width=100%>
 </p>
 
 ### Hi there, I'm Rodrigo 👋
