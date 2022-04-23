@@ -6,9 +6,9 @@
 <h3 align=center>and a technician in software development! 🖱️ </h3>
 <h3 align=center>Currently, I am in college getting my degree in software analysis and development! 🎓 </h3>
 <h4 align=center>I love to watch movies 🎬 and listen to music! 🎶</h4>
-**<p align=center>These are my most used languages:</p>**
+<p align=center>These are my most used languages:</p>
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodasilv&title_color=000000" alt="Stats">
+
 </p>
 <p align=center>
 <img src="https://i.ibb.co/mb6T2G3/bottom.png" alt="bottom" width=100%>
