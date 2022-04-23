@@ -4,7 +4,7 @@
 <h1 align=center>Hi there, I'm Rodrigo! 👋🏻 </h1>
 <h3 align=center>I'm a brazilian <samp>developer</samp> 👨🏻‍💻 </h3>
 <h3 align=center>and a technician in software development! 🖱️ </h3>
-<h3 align=center>Currently, I am in college getting my bachelor's degree in software engineering! 🎓 </h3>
+<h3 align=center>Currently, I am in college getting my degree in software analysis and development! 🎓 </h3>
 <h4 align=center>I love to watch movies 🎬 and listen to music! 🎶</h4>
 <p align=center>These are my most used languages:</p>
 <p align=center>
